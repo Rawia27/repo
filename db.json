@@ -4,7 +4,7 @@
       "id": 1,
       "title":"Atomic",
       "auther":"Ahmed",
-      "image":"2131165306",
+      "image":2131165306,
       "price":150,
       "desc":"This's bok is taking about",
       "rate":5
@@ -13,7 +13,7 @@
       "id": 2,
       "title":"Atomic",
       "auther":"Kareem",
-      "image":"2131165307",
+      "image":2131165307,
       "price":450,
       "desc":"This's bok is taking about",
       "rate":4.5
@@ -22,7 +22,7 @@
       "id": 3,
       "title":"Atomic",
       "auther":"Mohamed",
-      "image":"2131165308",
+      "image":2131165308,
       "price":350,
       "desc":"This's bok is taking about",
       "rate":3.5
@@ -31,7 +31,7 @@
       "id": 4,
       "title":"Atomic",
       "auther":"Gamal",
-      "image":"2131165310",
+      "image":2131165310,
       "price":250,
       "desc":"This's bok is taking about",
       "rate":3
