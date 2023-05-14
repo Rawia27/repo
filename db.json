@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "books": [
     {
       "id": 1,
       "title": "Atomic"
@@ -7,7 +7,7 @@
       "image":"C:\Users\admin\Downloads\bookImg.jpg"
       "price":150
       "desc":"This's bok is taking about"
-      "rate":"5"
+      "rate":5
     },
      {
       "id": 2,
@@ -16,7 +16,7 @@
       "image":"C:\Users\admin\Downloads\book2.jpg"
       "price":450
       "desc":"This's bok is taking about"
-      "rate":"4.5"
+      "rate":4.5
     },
      {
       "id": 3,
@@ -25,7 +25,7 @@
       "image":"C:\Users\admin\Downloads\book3.jpg"
       "price":350
       "desc":"This's bok is taking about"
-      "rate":"3.5"
+      "rate":3.5
     },
      {
       "id": 4,
@@ -34,6 +34,6 @@
       "image":"C:\Users\admin\Downloads\book4.jpg"
       "price":250
       "desc":"This's bok is taking about"
-      "rate":"3"
+      "rate":3
     },
   ]}
